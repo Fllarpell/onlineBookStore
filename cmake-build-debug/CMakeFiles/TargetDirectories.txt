@@ -1,0 +1,3 @@
+C:/Users/dimas/CLionProjects/onlineBookStore/cmake-build-debug/CMakeFiles/onlineBookStore.dir
+C:/Users/dimas/CLionProjects/onlineBookStore/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dimas/CLionProjects/onlineBookStore/cmake-build-debug/CMakeFiles/rebuild_cache.dir
